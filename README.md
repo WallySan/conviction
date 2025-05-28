@@ -72,3 +72,22 @@ A solução cria um subconsciente infinito para a IA, ampliando seu contexto lim
 # Realizando um Novo Prompt com Influência do Subconsciente
 
 ![Prompt com Influência do Subconsciente](https://github.com/user-attachments/assets/19fd5efe-6ec4-4e45-9e1f-831bab912a89)
+
+---
+---
+---
+# Instalação
+
+Instalar as bibliotecas utilizadas pelo código via pip install
+
+Instalar o Neo4J via Docker não esquecendo de ajustar sua senha para a mesma da conexão do arquivo .py
+
+Realizar treinamento com afirmações simples separadas por ; 
+
+> curl -X POST http://localhost:9875/processar \
+>   -H "Content-Type: application/json" \
+>   -d '{"texto": "A cultura é a base da identidade humana; A arte tem o poder de transformar a sociedade; A tradição deve ser respeitada, mas também atualizada; A > diversidade cultural é o maior patrimônio que temos; O folclore inspira nossa criatividade; As festas populares são momentos de verdadeira união; A língua materna é um tesouro que precisa ser preservado; A modernidade desafia os costumes, mas traz progresso; O artesanato reflete a alma de uma comunidade; O cinema é uma janela para diferentes realidades"}'
+
+
+
+
