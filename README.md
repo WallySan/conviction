@@ -12,3 +12,9 @@ influencia as escolhas e "sentimentos" da IA.
 🌐 Permite acesso a informações amplas e interconectadas além do contexto imediato,
 
 📚 fornecendo uma base contínua de dados e aprendizados para decisões mais coerentes, memória de longo prazo e conexões profundas.
+
+
+# Treinamento do subconsciente:
+
+![image](https://github.com/user-attachments/assets/d60c561a-28d2-4a7e-b6b5-a5b3c3216e18)
+
