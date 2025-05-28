@@ -57,6 +57,11 @@ A solução cria um subconsciente infinito para a IA, ampliando seu contexto lim
 
 ![Alimentando o Subconsciente](https://github.com/user-attachments/assets/48983a74-0085-4353-91a5-daa83693ef3d)
 
+# Ao fazer a pergunta sobre horário que estudo, os grafos já recuperam o contexto, e sugerem o prompt:
+
+![image](https://github.com/user-attachments/assets/c847336b-9fdc-492a-b852-d370d1030add)
+
+
 ---
 
 # Realizando um Novo Prompt com Influência do Subconsciente
