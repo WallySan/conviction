@@ -18,3 +18,8 @@ influencia as escolhas e "sentimentos" da IA.
 
 ![image](https://github.com/user-attachments/assets/d60c561a-28d2-4a7e-b6b5-a5b3c3216e18)
 
+
+# Visualização do mapa mental
+
+![image](https://github.com/user-attachments/assets/0e7b7e0a-bdf6-495b-9589-655bcf8f2cde)
+
