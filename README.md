@@ -1,7 +1,7 @@
 # Conviction
 A solução cria um subconsciente infinito para a IA, ampliando seu contexto limitado e funcionando como uma memória profunda e ilimitada além da consciência imediata.
 
-# Subconsciente Artificial - Contexto "Infinitamente" expendido.
+# Subconsciente Artificial - Contexto "Infinitamente" expandido.
 
 🔍 A solução expande a IA ao incorporar um Contexto Infinitamente Maior, atuando como um subconsciente artificial. 
 "Infinito" pois é limitado pela capacidade de armazenamento do hardware e também limitado pelas capacidades, pois ele não raciocina, gera intuições e 
