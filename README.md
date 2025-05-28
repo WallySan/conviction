@@ -104,4 +104,10 @@ Subir serviço de convicções:
 
 > uvicorn app:app --host 0.0.0.0 --port 9875 --reload
 
+Comando para consultar todos os nós com limite 2000
+
+> MATCH (a)-[r]->(b)
+> RETURN a, r, b
+> LIMIT 2000;
+
 
