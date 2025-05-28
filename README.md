@@ -82,12 +82,22 @@ Instalar as bibliotecas utilizadas pelo código via pip install
 
 Instalar o Neo4J via Docker não esquecendo de ajustar sua senha para a mesma da conexão do arquivo .py
 
+> sudo docker run \
+>  --name neo4j-container \
+>   -p 7474:7474 -p 7687:7687 \
+>   -d \
+>   -e NEO4J_AUTH=neo4j/S3nh@Segura2024 \
+>   neo4j:latest
+
+
 Realizar treinamento com afirmações simples separadas por ; 
 
 > curl -X POST http://localhost:9875/processar \
 >   -H "Content-Type: application/json" \
 >   -d '{"texto": "A cultura é a base da identidade humana; A arte tem o poder de transformar a sociedade; A tradição deve ser respeitada, mas também atualizada; A > diversidade cultural é o maior patrimônio que temos; O folclore inspira nossa criatividade; As festas populares são momentos de verdadeira união; A língua materna é um tesouro que precisa ser preservado; A modernidade desafia os costumes, mas traz progresso; O artesanato reflete a alma de uma comunidade; O cinema é uma janela para diferentes realidades"}'
 
+via Web consegue interagir facilmente com os grafos:
 
+> http://localhost:7474/browser/
 
 
