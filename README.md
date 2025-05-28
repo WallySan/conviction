@@ -15,6 +15,11 @@ A solução cria um subconsciente infinito para a IA, ampliando seu contexto lim
 
 📚 Oferece uma base contínua de dados e aprendizados, permitindo **decisões mais coerentes**, **memória de longo prazo** e **conexões profundas** entre ideias.
 
+
+
+![image](https://github.com/user-attachments/assets/713efea4-0325-4096-8e8b-13b3a52d4762)
+
+
 ---
 
 # Treinamento do Subconsciente
