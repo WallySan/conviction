@@ -34,6 +34,10 @@ influencia as escolhas e "sentimentos" da IA.
 
 ![image](https://github.com/user-attachments/assets/e49b3c42-c3bd-4e0b-98ef-02bf0d6bf14c)
 
+# Prompt incrementado com o contexto de convicções
+
+![image](https://github.com/user-attachments/assets/a1e3088a-f39b-4d90-954a-6f7afe3f1f8f)
+
 
 
 
